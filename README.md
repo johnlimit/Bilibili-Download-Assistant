@@ -66,14 +66,26 @@ sudo apt-get install python3
 
 ​	1.将download.py和ffmpeg.exe放置在同一目录后，双击download.py运行。初次运行时，工具会自动下载补全所需的库。
 
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic1.PNG?raw=true)
+
 ​	2.进入欢迎界面，此时您不需要任何操作，3秒后自动跳转。
+
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic2.PNG?raw=true)
 
 ​	3.工具提示您输入需要下载的音视频的BV号。您可以选择手动输入，也可以在网页上找到BV号并复制粘贴。
 
 ​		（请注意：对于Linux、Win7、Win8、Win8.1系统，粘贴的方式是右键->粘贴；对于Win10及Win11系统，粘贴的方式是直接右键。）
 
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic3.PNG?raw=true)
+
 ​	4.随后您可选择下载音频还是下载视频，输入1和2之后回车即可进入下一步。
+
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic4.PNG?raw=true)
 
 ​	5.工具开始自动下载、合并。您可以查看当前下载速度及进度。
 
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic5.PNG?raw=true)
+
 ​	6.工具下载、合并完成后，会告知您成功/失败。若成功，则下载完成的音视频文件就放置在download.py所属的文件夹里。若失败，请检查ffmpeg.exe是否与download.py放置在同一目录中。
+
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic6.PNG?raw=true)
