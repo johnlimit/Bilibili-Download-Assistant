@@ -72,7 +72,7 @@ class BilibiliDownloader:
         print('准备下载音频数据...')
         resp = self.get_html(self.audio_url,is_stream=True)
         total = int(resp.headers.get('content-length',0))
-        print(str(total))
+        #print(str(total))
         print('正在下载并保存为音频文件...' )
         if audio_only == True:
             with open(self.bv_number + '.mp3',mode='wb') as f,tqdm(
