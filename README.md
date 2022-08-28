@@ -76,7 +76,7 @@ sudo apt-get install python3
 
 ​		（请注意：对于Linux、Win7、Win8、Win8.1系统，粘贴的方式是右键->粘贴；对于Win10及Win11系统，粘贴的方式是直接右键。）
 
-![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic3.PNG?raw=true)
+![](https://github.com/johnlimit/Bilibili-Download-Assistant/blob/main/pic/pic3.png?raw=true)
 
 ​	4.随后您可选择下载音频还是下载视频，输入1和2之后回车即可进入下一步。
 
