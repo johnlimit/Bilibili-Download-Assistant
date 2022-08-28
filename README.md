@@ -32,7 +32,7 @@
 
 ### 1.安装Python
 
-​	本工具基于Python 3.10构建，**因此为达到最好的效果，建议您安装Python 3.10（即目前的最新版本）。**安装方式可以参考如下文章：
+​	本工具基于Python 3.10构建，**因此为达到最好的效果，建议您安装Python 3.10（即目前的最新版本）。安装方式可以参考如下文章：
 
 ​	[(9条消息) 真小白入门：python的安装（一）_大橘子呀的博客-CSDN博客_python](https://blog.csdn.net/nmjuzi/article/details/79075736)		
 
@@ -58,7 +58,7 @@ sudo apt-get install python3
 
 ​	下载完成后，对下载的ZIP文件进行解压，即可得到本工具的所有文件。
 
-​	请注意：必须保证download.py和ffmpeg.exe同时存在，否则本工具无法顺利实现音视频下载。
+​	**请注意：必须保证download.py和ffmpeg.exe同时存在，否则本工具无法顺利实现音视频下载。**
 
 ## 五、使用指南
 
