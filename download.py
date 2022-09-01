@@ -205,7 +205,7 @@ def welcome_page():
     print(Fore.GREEN + 'BILIBILI_DOWNLOAD_ASSISTANT:B站音视频下载助理' + Style.RESET_ALL)
     print('作者：南京邮电大学 林宏扬')
     print('初稿：2022年8月26日')
-    print('当前版本：2022年8月31日版')
+    print('当前版本：2022年9月1日版')
     print('本工具依据GPL v3.0协议，使用ffmpeg软件进行音视频处理。')
     print('这是一个轻量级的B站音视频下载工具。')
     print(Fore.YELLOW + '操作系统类型:'+ platform.system() +Style.RESET_ALL)
